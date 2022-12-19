@@ -133,3 +133,25 @@
 .header__actions-link:last-child {
     margin-right: 0;
 }
+
+.menu {
+    width: 1171px;
+    margin: 0 auto;
+    background: #F0F0F4;
+    margin-top: 122px;
+    padding: 15px 0 ;
+}
+
+.menu a {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding-left: 58px;
+}
+
+.menu a:first-child {
+    padding-left: 0px;
+}
